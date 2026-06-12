@@ -46,7 +46,7 @@ Here are a few of the public projects I've built that demonstrate my skills:
 | :--- | :--- | :--- |
 | 🎨 **[parArc](http://pararcdesignstudio.in/)** | Creative portfolio and design studio interface emphasizing interactive aesthetics. | TypeScript, CSS |
 | 🤖 **[tripzy-ai](https://github.com/vbp-web/tripzy-ai)** | An AI-powered travel planning service that automates personalized itineraries. | TypeScript, React |
-| 🏆 **[Sportivo](https://github.com/vbp-web/Sportivo---Multi-Sport-Slot-Booking-Platform)** | A slot booking platform for multi-sport complexes with reservation management. | TypeScript, Tailwind CSS |
+| 🏆 **[Sportivo](https://sportivo-multi-sport-slot-booking.onrender.com/)** | A slot booking platform for multi-sport complexes with reservation management. | TypeScript, Tailwind CSS |
 | 💬 **[WhatsApp Broadcaster](https://github.com/vbp-web/WhatsApp-Real-time-Broadcast-System)** | Real-time system designed to send broadcast notifications to large user listings. | TypeScript, Node.js |
 | 🍔 **[Food-Dev](https://github.com/vbp-web/Food-Dev)** | Fully responsive food ordering dashboard with rich menu tabs. | HTML5, Tailwind CSS, JS |
 | 🍫 **[Choco Bliss](https://github.com/vbp-web/CHOCO_BLISS)** | Creative and interactive e-commerce layouts centered on premium design. | HTML5, CSS3, JS |
