@@ -44,6 +44,7 @@ Here are a few of the public projects I've built that demonstrate my skills:
 
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
+| 🎨 **[parArc](https://github.com/vbp-web/parArc)** | Creative portfolio and design studio interface emphasizing interactive aesthetics. | TypeScript, CSS |
 | 🤖 **[tripzy-ai](https://github.com/vbp-web/tripzy-ai)** | An AI-powered travel planning service that automates personalized itineraries. | TypeScript, React |
 | 🏆 **[Sportivo](https://github.com/vbp-web/Sportivo---Multi-Sport-Slot-Booking-Platform)** | A slot booking platform for multi-sport complexes with reservation management. | TypeScript, Tailwind CSS |
 | 💬 **[WhatsApp Broadcaster](https://github.com/vbp-web/WhatsApp-Real-time-Broadcast-System)** | Real-time system designed to send broadcast notifications to large user listings. | TypeScript, Node.js |
