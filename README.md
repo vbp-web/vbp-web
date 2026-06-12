@@ -44,6 +44,7 @@ Here are a few of the public projects I've built that demonstrate my skills:
 
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
+| 🏢 **[oneverce](https://www.onevercesolution.in/)** | Official website for Oneverce Solutions, delivering premium digital design and software services. | React, CSS |
 | 🎨 **[parArc](http://pararcdesignstudio.in/)** | Creative portfolio and design studio interface emphasizing interactive aesthetics. | TypeScript, CSS |
 | 🤖 **[tripzy-ai](https://github.com/vbp-web/tripzy-ai)** | An AI-powered travel planning service that automates personalized itineraries. | TypeScript, React |
 | 🏆 **[Sportivo](https://sportivo-multi-sport-slot-booking.onrender.com/)** | A slot booking platform for multi-sport complexes with reservation management. | TypeScript, Tailwind CSS |
