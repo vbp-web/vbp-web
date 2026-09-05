@@ -76,7 +76,7 @@ Here are a few of the public projects I've built that demonstrate my skills:
 ### 🤝 Connect with Me
 
 - 💻 Check out more of my repos right here on [GitHub](https://github.com/vbp-web)
-- ✉️ Feel free to shoot me an email if you want to collaborate or chat code: [vanshprajapati821@gmail.com](mailto:vanshprajapati821@gmail.com)
+- ✉️ Feel free to shoot me an email if you want to collaborate or chat code: [prajapativansh512@gmail.com](mailto:prajapativansh512@gmail.com)
 
 <div align="center">
   <br/>
